@@ -88,7 +88,7 @@ respaldo() {
 }
 
 auditoria() {
-    ejecutarScript "AUDITORIA" "auditoria.sh"
+    ejecutarScript "AUDITORIA" "auditoria_seguridad.sh"
 }
 
 ayuda() {

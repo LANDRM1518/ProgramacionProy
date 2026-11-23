@@ -5,7 +5,7 @@ set -Eeuo pipefail
 DIRECTORIO="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 BASTION_USER="bastion"
-BASTION_HOST="127.0.0.1"
+BASTION_HOST="172.18.0.2"
 BASTION_PORT="2222"
 SSH_KEY="$HOME/.ssh/id_ed25519"
 
