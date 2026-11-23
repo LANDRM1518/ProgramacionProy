@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="fdmGcrkkJDbHjT99kVfn">
+    <mxGraphModel dx="1030" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CtAnA_rN1v84Xbgrl6nX-6" edge="1" parent="1" source="CtAnA_rN1v84Xbgrl6nX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="CtAnA_rN1v84Xbgrl6nX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAnA_rN1v84Xbgrl6nX-7" edge="1" parent="1" source="CtAnA_rN1v84Xbgrl6nX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=1.04;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="CtAnA_rN1v84Xbgrl6nX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAnA_rN1v84Xbgrl6nX-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Bastion" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAnA_rN1v84Xbgrl6nX-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Servidor WEB" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAnA_rN1v84Xbgrl6nX-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Servidor Archivos" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAnA_rN1v84Xbgrl6nX-5" edge="1" parent="1" source="CtAnA_rN1v84Xbgrl6nX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="CtAnA_rN1v84Xbgrl6nX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtAnA_rN1v84Xbgrl6nX-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
